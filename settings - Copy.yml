@@ -1,0 +1,10 @@
+%YAML:1.0
+ImgSize: !!opencv-matrix
+   rows: 1
+   cols: 2
+   dt: d
+   data: [ 1280, 720 ]
+VideoLDir: "ruimteL.MP4"
+VideoRDir: "ruimteR.MP4"
+FrameL : 181
+FrameR : 21

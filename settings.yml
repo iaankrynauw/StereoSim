@@ -1,0 +1,15 @@
+%YAML:1.0
+ImgSize: !!opencv-matrix
+   rows: 1
+   cols: 2
+   dt: d
+   data: [ 1280, 720 ]
+VideoLDir: "cb20L.MP4"
+VideoRDir: "cb20R.MP4"
+FrameL : 300
+FrameR : 300
+NumImg : 20
+ImgW : 1280
+ImgH : 720
+boardH : 9
+boardW : 6
